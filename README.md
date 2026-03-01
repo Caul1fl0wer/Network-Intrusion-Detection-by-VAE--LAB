@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-by-VAE--LAB
+# Network Intrusion Detection using VAE
 [OBJECTIVE] 
 
 This project focuses on building a Variational AutoEncoder (VAE) trained on benign network traffic to detect anomalous behavior.  
